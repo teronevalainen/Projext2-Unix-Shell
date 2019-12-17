@@ -1,0 +1,6 @@
+ls -la
+ls -la /tmp > output
+path tt tt
+pwd
+path /usr/bin /bin
+pwd
